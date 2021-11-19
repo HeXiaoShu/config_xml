@@ -1,2 +1,2 @@
 # config_xml
-Classic common configuration XML files
+经典 logback-spring.xml 日志配置文件
